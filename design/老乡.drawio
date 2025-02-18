@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="4K2T_vJ0-2x878eErzzm">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-1" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-2" value="请求认识&lt;div&gt;3+认识&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-3" value="发布行程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-18" value="&lt;b&gt;行程&lt;/b&gt;&lt;div&gt;+发布人id&lt;/div&gt;&lt;div&gt;+出发时间范围&lt;/div&gt;&lt;div&gt;+出发城市&lt;/div&gt;&lt;div&gt;+出发地点&lt;/div&gt;&lt;div&gt;+目的城市&lt;/div&gt;&lt;div&gt;+目的地点&lt;/div&gt;&lt;div&gt;+备注&lt;/div&gt;&lt;div&gt;+座位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-19" value="搜索行程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-20" value="审核申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-21" value="通知结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-22" value="加入申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-23" value="举报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-24" value="上传资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-25" value="后台审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
