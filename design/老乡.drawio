@@ -43,8 +43,8 @@
         <mxCell id="7aA-J8MjD3o0g2Cv_ob9-27" value="关注/点赞/分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-28" value="&lt;b&gt;用户&lt;/b&gt;&lt;br&gt;&lt;div&gt;+昵称&lt;/div&gt;&lt;div&gt;+真实姓名&lt;/div&gt;&lt;div&gt;+身份证号&lt;/div&gt;&lt;div&gt;+手机号&lt;/div&gt;&lt;div&gt;+地区&lt;/div&gt;&lt;div&gt;+注册日期&lt;/div&gt;&lt;div&gt;+权限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="120" height="120" as="geometry" />
+        <mxCell id="7aA-J8MjD3o0g2Cv_ob9-28" value="&lt;b&gt;用户&lt;/b&gt;&lt;br&gt;&lt;div&gt;+昵称&lt;/div&gt;&lt;div&gt;+真实姓名&lt;/div&gt;&lt;div&gt;+性别&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+身份证号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+手机号&lt;/div&gt;&lt;div&gt;+地区&lt;/div&gt;&lt;div&gt;+注册日期&lt;/div&gt;&lt;div&gt;+权限&lt;/div&gt;&lt;div&gt;+状态&lt;/div&gt;&lt;div&gt;+评分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
