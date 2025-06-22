@@ -1,9 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="q7sVPP6xPKbs8MGMjUjY">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZWSh7JbUX0yqGhhj11e-1" target="oZWSh7JbUX0yqGhhj11e-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="460" />
+              <mxPoint x="740" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-1" value="微信保姆手机端&lt;div&gt;账号A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-2" value="微信官方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-3" value="用户电脑？！" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZWSh7JbUX0yqGhhj11e-4" target="oZWSh7JbUX0yqGhhj11e-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="oZWSh7JbUX0yqGhhj11e-4" target="oZWSh7JbUX0yqGhhj11e-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-4" value="代理程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="205" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZWSh7JbUX0yqGhhj11e-5" target="oZWSh7JbUX0yqGhhj11e-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-5" value="C++的服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZWSh7JbUX0yqGhhj11e-6" target="oZWSh7JbUX0yqGhhj11e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-6" value="用户微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-13" value="java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="280" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oZWSh7JbUX0yqGhhj11e-16" value="？？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="478.25" y="-682" width="82.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
