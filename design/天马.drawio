@@ -152,25 +152,25 @@
         <mxCell id="bYLDWQ47FVdDKG1VAeGi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-4" target="bYLDWQ47FVdDKG1VAeGi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bYLDWQ47FVdDKG1VAeGi-4" value="真域名4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-4" value="真域名1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1000" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYLDWQ47FVdDKG1VAeGi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-5" target="bYLDWQ47FVdDKG1VAeGi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bYLDWQ47FVdDKG1VAeGi-5" value="真域名4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-5" value="真域名2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1120" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYLDWQ47FVdDKG1VAeGi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-6" target="bYLDWQ47FVdDKG1VAeGi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bYLDWQ47FVdDKG1VAeGi-6" value="真域名4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-6" value="真域名3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1241" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYLDWQ47FVdDKG1VAeGi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-7" target="bYLDWQ47FVdDKG1VAeGi-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bYLDWQ47FVdDKG1VAeGi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-7">
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-7" target="bYLDWQ47FVdDKG1VAeGi-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="270" as="targetPoint" />
           </mxGeometry>
@@ -180,6 +180,52 @@
         </mxCell>
         <mxCell id="bYLDWQ47FVdDKG1VAeGi-7" value="短链服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-16" target="bYLDWQ47FVdDKG1VAeGi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-16" target="bYLDWQ47FVdDKG1VAeGi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-16" value="检测服务动态删除被封禁的真实域名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-17" value="tg通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-20" target="bYLDWQ47FVdDKG1VAeGi-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="390" />
+              <mxPoint x="1360" y="420" />
+              <mxPoint x="1180" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-25" value="更新域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bYLDWQ47FVdDKG1VAeGi-22">
+          <mxGeometry x="0.3086" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-20" target="bYLDWQ47FVdDKG1VAeGi-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="390" />
+              <mxPoint x="1360" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-24" value="更新域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bYLDWQ47FVdDKG1VAeGi-23">
+          <mxGeometry x="-0.0245" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bYLDWQ47FVdDKG1VAeGi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bYLDWQ47FVdDKG1VAeGi-17" target="bYLDWQ47FVdDKG1VAeGi-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
