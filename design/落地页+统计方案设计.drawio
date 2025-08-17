@@ -283,7 +283,7 @@
         <mxCell id="tg03iWoaAQsdezeXGk5O-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tg03iWoaAQsdezeXGk5O-85" target="tg03iWoaAQsdezeXGk5O-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tg03iWoaAQsdezeXGk5O-84" value="上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tg03iWoaAQsdezeXGk5O-83">
+        <mxCell id="tg03iWoaAQsdezeXGk5O-84" value="上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009900;" vertex="1" connectable="0" parent="tg03iWoaAQsdezeXGk5O-83">
           <mxGeometry x="-0.1167" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -321,7 +321,7 @@
             <mxPoint x="1390" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tg03iWoaAQsdezeXGk5O-95" value="上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tg03iWoaAQsdezeXGk5O-94">
+        <mxCell id="tg03iWoaAQsdezeXGk5O-95" value="上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009900;" vertex="1" connectable="0" parent="tg03iWoaAQsdezeXGk5O-94">
           <mxGeometry x="0.1397" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -343,7 +343,7 @@
         <mxCell id="tg03iWoaAQsdezeXGk5O-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tg03iWoaAQsdezeXGk5O-106" target="tg03iWoaAQsdezeXGk5O-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tg03iWoaAQsdezeXGk5O-105" value="安装注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tg03iWoaAQsdezeXGk5O-104">
+        <mxCell id="tg03iWoaAQsdezeXGk5O-105" value="上报安装注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009900;" vertex="1" connectable="0" parent="tg03iWoaAQsdezeXGk5O-104">
           <mxGeometry x="0.2331" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
