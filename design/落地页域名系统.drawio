@@ -1,9 +1,256 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="第 1 页" id="Hh1a_w7o1XJ1eFqfBmuC">
-    <mxGraphModel>
+    <mxGraphModel dx="850" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint" />
+            <mxPoint x="470" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-4" value="查看所有的域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-3">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="470" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="160" />
+              <mxPoint x="340" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-8" value="依次查看单个域名&lt;div&gt;的解析状态&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-7">
+          <mxGeometry x="-0.1067" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-1" value="工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kSGdLvaGMFjoxX89hqMz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="130" />
+              <mxPoint x="320" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-6" value="返回所有域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-5">
+          <mxGeometry x="0.1733" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kSGdLvaGMFjoxX89hqMz-2" target="kSGdLvaGMFjoxX89hqMz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-10" value="返回解析记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-9">
+          <mxGeometry x="0.36" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-2" value="域名服务商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-12" value="对没有数字解析域名解析&lt;div&gt;当前渠道数字域名&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-11">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kSGdLvaGMFjoxX89hqMz-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-13" value="工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kSGdLvaGMFjoxX89hqMz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-14" value="域名服务商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kSGdLvaGMFjoxX89hqMz-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-15" value="域名管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-20" value="查看所有的域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-19">
+          <mxGeometry x="-0.13" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kSGdLvaGMFjoxX89hqMz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="170" as="sourcePoint" />
+            <mxPoint x="150" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-22" value="解析域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-21">
+          <mxGeometry x="-0.1972" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="420" as="sourcePoint" />
+            <mxPoint x="200" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-24" value="更新域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-23">
+          <mxGeometry x="-0.38" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="200" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-26" value="返回域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-25">
+          <mxGeometry x="0.13" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="490" as="sourcePoint" />
+            <mxPoint x="600" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-28" value="更新到域名管理服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-27">
+          <mxGeometry x="-0.13" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="510" as="sourcePoint" />
+            <mxPoint x="200" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-30" value="返回成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-29">
+          <mxGeometry x="-0.13" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="550" as="sourcePoint" />
+            <mxPoint x="200" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-32" value="解析域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-31">
+          <mxGeometry x="-0.38" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="560" as="sourcePoint" />
+            <mxPoint x="600" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="560" />
+              <mxPoint x="220" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-35" value="获取域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-34">
+          <mxGeometry x="-0.1067" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="584" as="sourcePoint" />
+            <mxPoint x="200" y="584" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="584" />
+              <mxPoint x="600" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-37" value="拿到可以解析的域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-36">
+          <mxGeometry x="-0.1067" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="610" as="sourcePoint" />
+            <mxPoint x="400" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-39" value="解析域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-38">
+          <mxGeometry x="-0.13" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="200" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-41" value="解析成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-40">
+          <mxGeometry x="0.13" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="660" as="sourcePoint" />
+            <mxPoint x="600" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="660" />
+              <mxPoint x="220" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-43" value="新增解析记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-42">
+          <mxGeometry x="-0.1067" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="690" as="sourcePoint" />
+            <mxPoint x="200" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSGdLvaGMFjoxX89hqMz-45" value="返回成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSGdLvaGMFjoxX89hqMz-44">
+          <mxGeometry x="-0.13" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
