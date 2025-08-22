@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="第 1 页" id="DI31bYms9GqnzgcTTFV1">
-    <mxGraphModel>
+    <mxGraphModel dx="850" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="unWjWnBBeZZWrFESSZYD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="280" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-3" value="海外服务器" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-4" value="国内用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unWjWnBBeZZWrFESSZYD-6" target="unWjWnBBeZZWrFESSZYD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-10" value="直连" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="unWjWnBBeZZWrFESSZYD-8">
+          <mxGeometry x="-0.063" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-6" value="国内节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.242;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;strokeColor=#00FF00;" edge="1" parent="1" source="unWjWnBBeZZWrFESSZYD-4" target="unWjWnBBeZZWrFESSZYD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-9" value="CDN，需要备案域名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="unWjWnBBeZZWrFESSZYD-7">
+          <mxGeometry x="-0.0796" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="unWjWnBBeZZWrFESSZYD-11" target="unWjWnBBeZZWrFESSZYD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-14" value="CDN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="unWjWnBBeZZWrFESSZYD-13">
+          <mxGeometry x="-0.1149" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unWjWnBBeZZWrFESSZYD-11" value="国外用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
